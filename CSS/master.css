@@ -1,0 +1,24 @@
+body{
+  background: #333;
+}
+
+header, section, footer{
+  background-color: #660099;
+  width: 80%;
+  margin: 0px, auto;
+  text-align: center;
+  font-size: 2em;
+  color: #36F;
+  border: 4px solid #90C;
+  margin-bottom: 25px;
+  height: 150px;
+  font-weight: bold;
+
+}
+section{
+  height: 400px;
+}
+
+footer{
+  height: 100px;
+}
